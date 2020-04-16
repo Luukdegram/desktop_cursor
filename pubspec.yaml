@@ -1,0 +1,24 @@
+name: desktop_cursor
+description: A Flutter desktop plugin to set the cursor shape.
+version: 0.1.0
+author: Luuk de Gram
+homepage: https://github.com/luukdegram/desktop_cursor
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
