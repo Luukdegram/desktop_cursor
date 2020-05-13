@@ -30,7 +30,7 @@ For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
 
 ### Desktop
-For installing and using the go implementation of the plugin, please read the [README](https://github.com/luukdegram/desktop_cursor/go).
+For installing and using the go implementation of the plugin, please read the [README](https://github.com/luukdegram/desktop_cursor/tree/master/go).
 
 ## Usage example
 
